@@ -1,0 +1,206 @@
+{
+    "Manchester City": [
+        {
+            "adversaire": "Juventus Turin",
+            "chapeau": 2,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Benfica Lisbonne",
+            "chapeau": 2,
+            "lieu": "exterieur"
+        },
+        {
+            "adversaire": "Celtic",
+            "chapeau": 3,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Dinamo Zagreb",
+            "chapeau": 3,
+            "lieu": "exterieur"
+        },
+        {
+            "adversaire": "AS Monaco",
+            "chapeau": 4,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Sparta Prague",
+            "chapeau": 4,
+            "lieu": "exterieur"
+        }
+    ],
+    "Bayern Munich": [
+        {
+            "adversaire": "Shakhtar Donetsk",
+            "chapeau": 2,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Arsenal",
+            "chapeau": 2,
+            "lieu": "exterieur"
+        },
+        {
+            "adversaire": "Lille",
+            "chapeau": 3,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "PSV Eindhoven",
+            "chapeau": 3,
+            "lieu": "exterieur"
+        },
+        {
+            "adversaire": "Bologne",
+            "chapeau": 4,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Gérone",
+            "chapeau": 4,
+            "lieu": "exterieur"
+        }
+    ],
+    "Real Madrid": [
+        {
+            "adversaire": "Atalanta Bergame",
+            "chapeau": 2,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Club Bruges",
+            "chapeau": 2,
+            "lieu": "exterieur"
+        },
+        {
+            "adversaire": "Young Boys",
+            "chapeau": 3,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Sporting Portugal",
+            "chapeau": 3,
+            "lieu": "exterieur"
+        },
+        {
+            "adversaire": "Stade Brestois",
+            "chapeau": 4,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Slovan Bratislava",
+            "chapeau": 4,
+            "lieu": "exterieur"
+        }
+    ],
+    "PSG": [
+        {
+            "adversaire": "AC Milan",
+            "chapeau": 2,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Atlético de Madrid",
+            "chapeau": 2,
+            "lieu": "exterieur"
+        },
+        {
+            "adversaire": "RB Salzbourg",
+            "chapeau": 3,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Feyenoord Rotterdam",
+            "chapeau": 3,
+            "lieu": "exterieur"
+        },
+        {
+            "adversaire": "Aston Villa",
+            "chapeau": 4,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Stuttgart",
+            "chapeau": 4,
+            "lieu": "exterieur"
+        }
+    ],
+    "Liverpool": [],
+    "Inter Milan": [],
+    "Borussia Dortmund": [],
+    "RB Leipzig": [],
+    "FC Barcelone": [],
+    "Bayer Leverkusen": [
+        {
+            "adversaire": "FC Barcelone",
+            "chapeau": 1,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Liverpool",
+            "chapeau": 1,
+            "lieu": "exterieur"
+        }
+    ],
+    "Atlético de Madrid": [
+        {
+            "adversaire": "Manchester City",
+            "chapeau": 1,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "RB Leipzig",
+            "chapeau": 1,
+            "lieu": "exterieur"
+        }
+    ],
+    "Atalanta Bergame": [
+        {
+            "adversaire": "Real Madrid",
+            "chapeau": 1,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "Bayern Munich",
+            "chapeau": 1,
+            "lieu": "exterieur"
+        }
+    ],
+    "Juventus Turin": [
+        {
+            "adversaire": "Borussia Dortmund",
+            "chapeau": 1,
+            "lieu": "domicile"
+        },
+        {
+            "adversaire": "PSG",
+            "chapeau": 1,
+            "lieu": "exterieur"
+        }
+    ],
+    "Benfica Lisbonne": [],
+    "Arsenal": [],
+    "Club Bruges": [],
+    "Shakhtar Donetsk": [],
+    "AC Milan": [],
+    "Feyenoord Rotterdam": [],
+    "Sporting Portugal": [],
+    "PSV Eindhoven": [],
+    "Dinamo Zagreb": [],
+    "RB Salzbourg": [],
+    "Lille": [],
+    "Étoile Rouge de Belgrade": [],
+    "Young Boys": [],
+    "Celtic": [],
+    "Slovan Bratislava": [],
+    "AS Monaco": [],
+    "Sparta Prague": [],
+    "Aston Villa": [],
+    "Bologne": [],
+    "Gérone": [],
+    "Stuttgart": [],
+    "Sturm Graz": [],
+    "Stade Brestois": []
+}
